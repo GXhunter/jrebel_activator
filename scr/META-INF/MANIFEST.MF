@@ -1,0 +1,4 @@
+Manifest-Version: 0.2
+Main-Class: com.gxhunter.jrebel.JrebelActivator
+Created-By: hunter
+
